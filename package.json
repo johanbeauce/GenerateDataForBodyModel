@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "name": "generate-data",
+  "version": "1.0.0",
+  "scripts": {
+    "generate-data": "node index.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
